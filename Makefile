@@ -1,5 +1,5 @@
 # Define the module name
-MODULE_NAME := demo
+MODULE_NAME := demo2
 # Define the directory for header files
 INC_DIR := include
 # Define the directory for source files
